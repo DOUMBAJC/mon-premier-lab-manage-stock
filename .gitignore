@@ -12,3 +12,4 @@ yarn.lock  # Si vous utilisez Yarn au lieu de npm
 Thumbs.db  # Windows
 *.swp      # Vim
 .vscode/   # Paramètres spécifiques à VS Code (optionnel, selon vos préférences)
+.env
