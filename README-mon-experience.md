@@ -35,7 +35,7 @@ Les principales fonctionnalités à implémenter étaient :
 
 ### Capture d'écran
 
-![Capture d'écran de ma solution](./screenshot-at-2025-04-23 18-29-30.png)
+![Capture d'écran de ma solution](./screenshot.png)
 
 Cette capture d'écran montre un test de l'API avec Postman, où j'envoie une requête GET à l'endpoint `/api/users` et reçois la liste des utilisateurs en format JSON.
 
